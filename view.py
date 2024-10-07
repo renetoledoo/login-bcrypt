@@ -46,7 +46,6 @@ def menu():
         case _:
             print("Opção inválida! Tente novamente.")
 
-# Exibe o menu
 if __name__ == "__main__":
     while True:
         menu()
